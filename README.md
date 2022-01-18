@@ -1,1 +1,11 @@
-# bk_download_image
+# How to execute
+
+```bash
+git clone https://github.com/Joao208/bk_download_image
+
+cd bk_download_image
+
+yarn
+
+yarn generate
+```
