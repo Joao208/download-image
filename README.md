@@ -1,4 +1,4 @@
-# To run
+# How to execute
 
 ```bash
 git clone https://github.com/Joao208/bk_download_image
