@@ -1,0 +1,17 @@
+{
+  "name": "bk_download_image",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "generate": "ts-node src/index.ts"
+  },
+  "dependencies": {
+    "@types/request": "^2.48.8",
+    "fs": "^0.0.1-security",
+    "reply": "^0.5.0",
+    "request": "^2.88.2",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.4"
+  }
+}
